@@ -1,0 +1,11 @@
+package com.atguigu.springcloud.controller;
+
+/**
+ * 
+ * @author June
+ * @date 2020/10/14
+ * @version V1.0
+ */
+public class DeptController_Consumer {
+
+}

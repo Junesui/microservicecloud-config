@@ -1,0 +1,11 @@
+package com.atguigu.springcloud;
+
+/**
+ * 
+ * @author June
+ * @date 2020/10/18
+ * @version V1.0
+ */
+public class DeptProvider8001_App {
+
+}

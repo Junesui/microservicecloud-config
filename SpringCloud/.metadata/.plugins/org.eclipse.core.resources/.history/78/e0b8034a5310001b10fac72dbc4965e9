@@ -1,0 +1,11 @@
+package com.atguigu.springcloud;
+
+/**
+ * 
+ * @author June
+ * @date 2020/10/17
+ * @version V1.0
+ */
+public class Zuul_9527_StartSpringCloudApp {
+
+}

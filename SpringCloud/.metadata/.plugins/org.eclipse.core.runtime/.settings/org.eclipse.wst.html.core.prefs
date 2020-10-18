@@ -1,0 +1,7 @@
+attrNamesToIgnore=
+eclipse.preferences.version=1
+ignoreAttrNames=false
+indentationChar=space
+indentationSize=4
+inlineElements=h1,hr,h2,h3,h4,h5,li,h6
+lineWidth=150

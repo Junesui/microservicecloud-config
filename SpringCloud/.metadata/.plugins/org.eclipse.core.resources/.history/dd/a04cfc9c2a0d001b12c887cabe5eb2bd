@@ -1,0 +1,34 @@
+package com.atguigu.springcloud.service.impl;
+
+import java.util.List;
+
+import com.atguigu.springcloud.entities.Dept;
+import com.atguigu.springcloud.service.DeptService;
+
+/**
+ * 
+ * @author June
+ * @date 2020/10/13
+ * @version V1.0
+ */
+public class DeptServiceImpl implements DeptService {
+
+	@Override
+	public boolean addDept(Dept dept) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Dept findById(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Dept> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

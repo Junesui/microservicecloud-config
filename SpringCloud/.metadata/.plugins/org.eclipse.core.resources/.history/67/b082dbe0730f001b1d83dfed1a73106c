@@ -1,0 +1,29 @@
+package com.atguigu.springcloud.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.atguigu.springcloud.service.DeptClientService;
+
+/**
+ * 
+ * @author June
+ * @date 2020/10/14
+ * @version V1.0
+ */
+@RestController
+public class DeptController_Consumer {
+	
+	@Autowired
+	private DeptClientService service;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

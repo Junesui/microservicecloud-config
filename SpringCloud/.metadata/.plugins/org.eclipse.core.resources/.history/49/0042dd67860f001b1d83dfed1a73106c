@@ -1,0 +1,16 @@
+package com.atguigu.springcloud.service;
+
+import feign.hystrix.FallbackFactory;
+
+/**
+ * 根据已经有的DeptClientService接口新建一个实现了FallbackFactory接口的类DeptClientServiceFallbackFactory 
+ */
+public class DeptClientServiceFallbackFactory implements FallbackFactory<DeptClientService>{
+
+	@Override
+	public DeptClientService create(Throwable cause) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

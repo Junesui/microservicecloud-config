@@ -1,0 +1,11 @@
+package com.atguigu.springcloud.service;
+
+/**
+ * 
+ * @author June
+ * @date 2020/10/13
+ * @version V1.0
+ */
+public interface DeptService {
+
+}
